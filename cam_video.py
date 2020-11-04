@@ -13,7 +13,6 @@ import cv2
 import numpy as np
 from time import sleep
 import os
-from gtts import gTTS
 import _thread
 
 def speakTTS(faceNoMask,a,b):
